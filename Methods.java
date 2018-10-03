@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.SimpleTimeZone;
 
-public class Methods {
+public class Methods   {
     Integer n, m;
     Double [] function;
     Double [][] coefficient;
